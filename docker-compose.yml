@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  csg.kaveri.userloginapi:
+    image: ${DOCKER_REGISTRY-}csgkaveriuserloginapi
+    build:
+      context: .
+      dockerfile: CSG.Kaveri.UserLogin/Dockerfile
+    ports:
+    - "8091:80"

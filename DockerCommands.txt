@@ -1,0 +1,8 @@
+docker compose build  / docker build  -t csgkaveriuserloginapi .
+docker images 
+docker tag csgkaveriuserloginapi:latest csgkaveri/corewebapi:csgkaveriuserloginapi
+docker push csgkaveri/corewebapi:csgkaveriuserloginapi
+
+docker pull csgkaveri/corewebapi:csgkaveriuserloginapi
+docker images 
+docker run -it -p 8091:80 

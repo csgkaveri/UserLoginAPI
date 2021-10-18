@@ -1,0 +1,14 @@
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.UserLoginAPI.exe
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\appsettings.Development.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\appsettings.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.UserLoginAPI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.UserLoginAPI.deps.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.UserLoginAPI.runtimeconfig.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.UserLoginAPI.pdb
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Dapper.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Microsoft.OpenApi.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Npgsql.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Docker\publish\CSG.Kaveri.CommonLibrary.dll

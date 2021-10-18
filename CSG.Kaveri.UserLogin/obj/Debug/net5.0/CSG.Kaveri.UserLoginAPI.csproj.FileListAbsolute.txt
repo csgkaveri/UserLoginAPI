@@ -1,0 +1,116 @@
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\appsettings.json
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.exe
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.deps.json
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.runtimeconfig.json
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.runtimeconfig.dev.json
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\ref\CSG.Kaveri.UserLoginAPI.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.pdb
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.CommonLibrary.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.AssemblyInfoInputs.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.AssemblyInfo.cs
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\staticwebassets\CSG.Kaveri.UserLoginAPI.StaticWebAssets.Manifest.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\staticwebassets\CSG.Kaveri.UserLoginAPI.StaticWebAssets.xml
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\scopedcss\bundle\CSG.Kaveri.UserLoginAPI.styles.css
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.csproj.CopyComplete
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\ref\CSG.Kaveri.UserLoginAPI.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.pdb
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.genruntimeconfig.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.csproj.AssemblyReference.cache
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Dapper.dll
+D:\Projects\Kaveri 2.0\Application\User Account\CSG.Kaveri.UserLogin\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Npgsql.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\appsettings.Development.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\appsettings.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.exe
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.deps.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.runtimeconfig.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.runtimeconfig.dev.json
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.UserLoginAPI.pdb
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Dapper.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Npgsql.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.AssemblyInfoInputs.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.AssemblyInfo.cs
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.csproj.CoreCompileInputs.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\staticwebassets\CSG.Kaveri.UserLoginAPI.StaticWebAssets.Manifest.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\scopedcss\bundle\CSG.Kaveri.UserLoginAPI.styles.css
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.RazorTargetAssemblyInfo.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\ref\CSG.Kaveri.UserLoginAPI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.pdb
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.genruntimeconfig.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\CSG.Kaveri.CommonLibrary.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\HealthChecks.UI.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\HealthChecks.UI.Client.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\HealthChecks.UI.Core.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\AutoMapper.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Fractions.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Humanizer.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\KubernetesClient.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\YamlDotNet.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.ApplicationInsights.AspNetCore.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.AI.EventCounterCollector.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.AI.WindowsServer.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\CSG.Kaveri.UserLoginAPI.csproj.AssemblyReference.cache
+F:\Projects\CMS\Kaveri 2.0\Source\Kaveri\Services\Authentication\CSG.Kaveri.UserLoginAPI\CSG.Kaveri.UserLogin\obj\Debug\net5.0\refint\CSG.Kaveri.UserLoginAPI.dll

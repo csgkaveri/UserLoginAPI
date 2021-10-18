@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Kaveri" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Projects\\CMS\\Kaveri\ 2\.0\\Source\\Kaveri\\Services\\Authentication\\CSG\.Kaveri\.UserLoginAPI\\CSG\.Kaveri\.UserLogin\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
